@@ -1,0 +1,3 @@
+Applied K-means Clustering and PCA on Celestrak TLE orbital data to identify satellites with similar orbital parameters to Starlink Satellites. Harnessed the SGP4 algorithm to determine the potential conjunction ratio of Starlink with non-Starlink satellites.
+
+.R file contains code for orbital predictions including the SGP4 algorithm. The 'TLE_20231206_2039.txt' file contains the satellite orbit data. Download both the files into the same folder and then execute the R code.
